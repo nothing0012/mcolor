@@ -28,4 +28,4 @@ build/
 # Misc
 .DS_Store
 
-test.json
+*output.json
